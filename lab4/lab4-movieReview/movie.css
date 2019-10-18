@@ -1,0 +1,10 @@
+body{
+	font-family : "Verdana", "Tahoma", sans-serif;
+}
+h1{
+	text-align: center;
+	size: 24pt;
+	font-style: bold;
+	font-family: "Tahoma", "Verdana", sans-serif;
+	text-shadow: 3px 3px #999999;
+}
