@@ -60,9 +60,7 @@ function piglatin() {
   console.log(text.value);
   var k = text.value.split(" ");
   console.log(k);
-  for(var i=0; i<k.length; i++){
-    console.log(k.indexOf(i));
-  }
+  console.log(k.lenght);
 }
 
 function malkovich() {
